@@ -1,6 +1,6 @@
 ﻿# The Box
 
-A synthetic commercial thought experiment. The box wasn't just packaging.
+A demo commercial thought experiment. The box wasn't just packaging.
 
 - **Possibility, not evidence** — no customers, economics, or performance were measured.
 - One zero-dependency HTML file. Open `index.html`, or play the live demo.
